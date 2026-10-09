@@ -1,5 +1,8 @@
 # Consumer Complaint AI --- NLP Classification
 
+**Dataset link:- https://www.consumerfinance.gov/data-research/consumer-complaints/
+make sure that dataset is uploaded in streamlit
+
 A Streamlit web application that uses deep-learning models to classify
 consumer complaint narratives. It predicts three labels for a complaint:
 
